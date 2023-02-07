@@ -1,4 +1,4 @@
-#Image Classification
+
 
 
 Image classification is a supervised learning problem. Image classification applications are used in many areas, such as medical imaging, object identification in satellite images, traffic control systems, brake light detection, and machine vision. A convolutional neural network (CNN or ConvNet) is a network architecture for deep learning that learns directly from data. CNNs play a major role in image processing problems tasks like localization, segmentation, and video analysis for recognizing obstacles in self-driving cars.
